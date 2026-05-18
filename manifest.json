@@ -1,0 +1,25 @@
+{
+  "name": "Indicadores CHQ",
+  "short_name": "CHQ",
+  "description": "Indicadores eléctricos SAIDI/SAIFI CHQ",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0E1937",
+  "theme_color": "#0E1937",
+  "orientation": "landscape",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/0E1937/38bdf8?text=CHQ",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/0E1937/38bdf8?text=CHQ",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
